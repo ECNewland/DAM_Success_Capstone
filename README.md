@@ -43,14 +43,24 @@ Doing some preliminary research of what data is captured by the DAM I won’t be
 
 
 Programs and Process Used:
+
 Original DataSets (Quantity 7) extracted as csv files from Cortex.
+
 Exploration of Data performed in Excel and Python/Jupytor Notebooks.
+
 Exploration determined that only 5 DataSets were needed.
+
 First round of Data Cleaning performed in Excel.
+
 Joining of DataSets performed in Python/Jupyter Notebooks.
+
 Second Round of Data Cleaning performed in Python.
+
 New csv DataSets saved from Python.
+
 New Datasets imported into Tableau for building Data Story for presentation.
+
 Python/Jupyter notebooks not included in GitHub to protect proprietary information.
+
 
 
