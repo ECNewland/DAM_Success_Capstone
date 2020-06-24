@@ -32,7 +32,7 @@ Schedule (through 6/25/2020)
 1.	Get the Data (5/29/2020)
 2.	Clean & Explore the Data (6/7/2020)
 3.	Create Presentation and Shiny App (6/14/2020)
-4.	Internal Demos (6/19/2020) Note: This date is a Friday
+4.	Internal Demos (6/20/2020)
 5.	Demo Day (6//2020)
 
 Data Sources
