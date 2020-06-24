@@ -1,3 +1,5 @@
+Tableau Data Story: https://public.tableau.com/profile/elissa.newland#!/vizhome/DAMProject/TheDAMStory
+
 # DAM_Success_Capstone
 DAM Success: The Inaugural Year and Beyond
 
@@ -38,3 +40,17 @@ Data Sources
 All data to be extracted from Vanderbilt University’s account of Orange Logic’s, Cortex DAM program. Interviews with Users may be necessary to support theories on workflows and activity.
 Known Issues and Challenges
 Doing some preliminary research of what data is captured by the DAM I won’t be able to prove productivity of Users based on time spent within the DAM, or time spent searching before they show a behavior of success. However, I may be able to determine success rate based on quantity of searches vs. success behaviors performed based on averages and/or percentages. This would lead me to understanding what is needed to improve the User experience and reduce support needs.
+
+
+Programs and Process Used:
+Original DataSets (Quantity 7) extracted as csv files from Cortex.
+Exploration of Data performed in Excel and Python/Jupytor Notebooks.
+Exploration determined that only 5 DataSets were needed.
+First round of Data Cleaning performed in Excel.
+Joining of DataSets performed in Python/Jupyter Notebooks.
+Second Round of Data Cleaning performed in Python.
+New csv DataSets saved from Python.
+New Datasets imported into Tableau for building Data Story for presentation.
+Python/Jupyter notebooks not included in GitHub to protect proprietary information.
+
+
